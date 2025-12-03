@@ -13,11 +13,8 @@ MVC introduces a clear, formal baseline for:
 - preventing misaligned outputs
 
 ### Relation to MVP
-
 The conceptual inspiration for MVC originates from the logic of Minimum Viable Product (MVP). While MVP established the minimal conditions required for a product to progress reliably from idea to delivery, **MVC defines the minimal clarity required for an intention to progress reliably from thought to correctly aligned AI execution.**
-
 As software development matured around MVP, AI-augmented work will mature around MVC: a standard that ensures ideas, intuitions, and objectives can be unambiguously interpreted and executed by AI systems.
-
 
 ### Formal Definition
 The full specification is available in:  
