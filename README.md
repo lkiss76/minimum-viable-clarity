@@ -4,6 +4,9 @@
 Minimum Viable Clarity (MVC) defines the minimum amount of precision and structure required for an AI system to correctly interpret human intent.  
 This repository contains **version 1.0**, the initial public specification.
 
+### Note on terminology
+The phrase “minimum viable clarity” has appeared informally in other contexts (e.g., value proposition design and decision-making). This repository defines a specific, formalized meaning for the term in the domain of human–AI collaboration.
+
 ### Why MVC?
 Most AI failures do not originate from the model, but from **ambiguous or incomplete intent specification**.  
 MVC introduces a clear, formal baseline for:
